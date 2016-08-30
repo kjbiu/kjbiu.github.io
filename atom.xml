@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://kjbiu.github.io/atom.xml" rel="self"/>
+  <link href="http://kjbiu.github.io/"/>
+  <updated>2016-08-30T18:49:59+08:00</updated>
+  <id>http://kjbiu.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Xiaoquanblog]]></title>
+    <link href="http://kjbiu.github.io/blog/2016/08/30/xiaoquanblog/"/>
+    <updated>2016-08-30T00:00:00+08:00</updated>
+    <id>http://kjbiu.github.io/blog/2016/08/30/xiaoquanblog</id>
+    <content type="html"><![CDATA[<h1>你好，hello,world</h1>
+
+<h2>二级标题</h2>
+
+<p><strong>加粗</strong></p>
+
+<p><code>标亮标亮标亮标亮</code></p>
+
+<ul>
+<li><p>一级列表</p>
+
+<ul>
+<li>二级列表
+
+<ul>
+<li>三级列表</li>
+<li>三级列表</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>一级列表</p></li>
+</ul>
+
+
+<blockquote><p>引用</p></blockquote>
+
+<p><a href="http://www.baidu.com">小权博客</a></p>
+
+<p><img src="https://ss0.bdstatic.com/5aV1bjqh_Q23odCf/static/superman/img/logo/bd_logo1_31bdc765.png" alt="image" /></p>
+]]></content>
+  </entry>
+  
+</feed>
